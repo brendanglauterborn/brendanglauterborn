@@ -1,19 +1,15 @@
 <h1 align= "center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to meet you. I'm Brendan Lauterborn</h1>
-<h3 align="center">A driven graduate student in Computer Science at Towson University. I earned a Bachelor of Science in Applied Mathematics from Texas A&M University in 2021.</h3>
 
 <p align="left">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/brendanlauterborn/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/brxndann/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/brendanlauterborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendanlauterborn" height="30" width="40" /></a>
+<a href="https://instagram.com/brxndann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brxndann" height="30" width="40" /></a>
 </p>
 
--Data analysis is my passion!
+I'm Brendan Lauterborn! A driven graduate student in Computer Science at Towson University. I earned a Bachelor of Science in Applied Mathematics from Texas A&M University in 2021.
+I am currently looking for data analysis roles. I spend my down time playing fantasy football!
 
--I’m looking for internship opportunities!
-
--How to reach me [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:brendan.lauterborn@gmail.com)
-
--Fun fact: I love fantasy football!
+How to reach me [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:brendan.lauterborn@gmail.com)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
   ### Languages
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -22,12 +18,9 @@
 
   ### Projects
   [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/)
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brendanlauterborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendanlauterborn" height="30" width="40" /></a>
-<a href="https://instagram.com/brxndann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brxndann" height="30" width="40" /></a>
-</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendanglauterborn&label=Profile%20views&color=0e75b6&style=flat" alt="brendanglauterborn" /> </p>
