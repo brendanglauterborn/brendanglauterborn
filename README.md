@@ -14,7 +14,7 @@
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
   ### Projects
-  [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+  [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
