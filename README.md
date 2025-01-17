@@ -16,8 +16,10 @@ How to reach me [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
-  ### Projects
+  ### Undergraduate Projects
   [![](https://img.shields.io/badge/-Car%20Dealership%20Manager-000)](https://github.com/brendanglauterborn/Car-Dealership-Manager.git)
+  [![](https://img.shields.io/badge/-Car%20Dealership%20Manager-000)](https://github.com/brendanglauterborn/Effect-of-Total-Expenditures-per-Student-on-AP-Exam-Pass-Rates)
+
 
 <br>
 
