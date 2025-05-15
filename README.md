@@ -23,6 +23,10 @@ How to reach me [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=
   [![](https://img.shields.io/badge/Effect%20of%20Total%20Expenditures%20per%20Student%20on%20AP%20Exam%20Pass%20Rates-000)](https://github.com/brendanglauterborn/Effect-of-Total-Expenditures-per-Student-on-AP-Exam-Pass-Rates)
 
   [![](https://img.shields.io/badge/-Arrows%20Impossibility%20Theorem-000)](https://github.com/brendanglauterborn/Arrows-Impossiblity-Theorem)
+  
+  [![](https://img.shields.io/badge/x86--64_Bootloader_Project-000)](https://github.com/curlyLasagna/COSC-519-Project)
+
+
 
 
 
