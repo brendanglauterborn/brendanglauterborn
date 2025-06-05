@@ -6,7 +6,7 @@
 </p>
 
 I'm Brendan Lauterborn! A driven graduate student in Computer Science at Towson University. I earned a Bachelor of Science in Applied Mathematics from Texas A&M University in 2021.
-I am currently looking for data analysis roles. I spend my down time playing fantasy football!
+I am currently looking for Data Science and Data Engineering roles. I spend my down time playing fantasy football!
 
 How to reach me [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:brendan.lauterborn@gmail.com)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
