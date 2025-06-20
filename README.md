@@ -14,7 +14,7 @@ How to reach me [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=
   ### Languages
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-  ![SQL](https://img.shields.io/badge/-MySQL-000?&logo=sql&logoColor=4479A1)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=4479A1)
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
   ### Undergraduate Projects
