@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/brendanlauterborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendanlauterborn" height="30" width="40" /></a>
-<a href="https://instagram.com/brxndann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brxndann" height="30" width="40" /></a>
+<a href="https://instagram.com/only1brxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="only1brxn" height="30" width="40" /></a>
 </p>
 
 I'm Brendan Lauterborn! A driven graduate student in Computer Science at Towson University. I earned a Bachelor of Science in Applied Mathematics from Texas A&M University in 2021.
