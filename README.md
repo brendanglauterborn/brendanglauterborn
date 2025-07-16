@@ -29,6 +29,9 @@ How to reach me [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=
   
   [![](https://img.shields.io/badge/x86--64_Bootloader_Project-000)](https://github.com/curlyLasagna/COSC-519-Project)
 
+  [![](https://img.shields.io/badge/LLM_Load_Balancing_Paper-000)](https://github.com/brendanglauterborn/llm-load-balancing-paper)
+
+
 
 
 
