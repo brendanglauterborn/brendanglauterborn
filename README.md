@@ -1,12 +1,17 @@
 <h1 align= "center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to meet you. I'm Brendan Lauterborn</h1>
 
 <p align="left">
-<a href="https://linkedin.com/in/brendanlauterborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendanlauterborn" height="30" width="40" /></a>
-<a href="https://instagram.com/only1brxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="only1brxn" height="30" width="40" /></a>
-[![](https://img.shields.io/badge/Resume-000)](https://github.com/brendanglauterborn/brendan-resume)
-
-
+  <a href="https://github.com/brendanglauterborn/brendan-resume" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="resume" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/brendanlauterborn" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/only1brxn" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
 </p>
+
 
 I'm Brendan Lauterborn! A driven graduate student in Computer Science at Towson University. I earned a Bachelor of Science in Applied Mathematics from Texas A&M University in 2021.
 I am currently looking for Data Science and Data Engineering roles. I spend my down time playing fantasy football!
