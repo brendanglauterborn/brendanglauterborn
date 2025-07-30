@@ -17,6 +17,8 @@ I am currently looking for Data Science and Data Engineering roles. I spend my d
 
 How to reach me [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:brendan.lauterborn@gmail.com)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+Resume [![](https://img.shields.io/badge/Resume-000)](https://github.com/brendanglauterborn/brendan-resume)
+
 
   ### Languages
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
