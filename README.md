@@ -1,9 +1,7 @@
 <h1 align= "center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to meet you. I'm Brendan Lauterborn</h1>
 
 <p align="left">
-  <a href="https://github.com/brendanglauterborn/brendan-resume" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/document.svg" alt="resume" height="30" width="30" />
-  </a>
+
   <a href="https://linkedin.com/in/brendanlauterborn" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
