@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/brendanlauterborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendanlauterborn" height="30" width="40" /></a>
 <a href="https://instagram.com/only1brxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="only1brxn" height="30" width="40" /></a>
-[![](https://img.shields.io/badge/Resume-000)](https://github.com/brendanglauterborn/brendan-resume/blob/main/Brendan_Lauterborn_Resume.pdf)
+[![](https://img.shields.io/badge/Resume-000)](https://github.com/brendanglauterborn/brendan-resume)
 
 </p>
 
