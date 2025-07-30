@@ -14,14 +14,15 @@
 
 I'm Brendan Lauterborn! A driven graduate student in Computer Science at Towson University. I earned a Bachelor of Science in Applied Mathematics from Texas A&M University in 2021.
 I am currently looking for Data Science and Data Engineering roles. I spend my down time playing fantasy football!
-
-Resume: [![](https://img.shields.io/badge/Resume-000)](https://github.com/brendanglauterborn/brendan-resume/blob/main/Brendan-Lauterborn-Resume.pdf)  
-Email: [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brendan.lauterborn@gmail.com)
+ 
+Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brendan.lauterborn@gmail.com)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 
-
+  ### Resume
+  [![](https://img.shields.io/badge/Resume-000)](https://github.com/brendanglauterborn/brendan-resume/blob/main/Brendan-Lauterborn-Resume.pdf) 
+  
   ### Languages
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
