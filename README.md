@@ -26,14 +26,16 @@ Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=
   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=4479A1)
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
-  ### Undergraduate Projects
-  [![](https://img.shields.io/badge/-Car%20Dealership%20Manager-000)](https://github.com/brendanglauterborn/Car-Dealership-Manager.git)
+   ### Graduate Projects
   
-  [![](https://img.shields.io/badge/Effect%20of%20Total%20Expenditures%20per%20Student%20on%20AP%20Exam%20Pass%20Rates-000)](https://github.com/brendanglauterborn/Effect-of-Total-Expenditures-per-Student-on-AP-Exam-Pass-Rates)
+  [![](https://img.shields.io/badge/Big_Data_Classification-000)](https://github.com/brendanglauterborn/Big-Data-Classification)
 
-  [![](https://img.shields.io/badge/-Arrows%20Impossibility%20Theorem-000)](https://github.com/brendanglauterborn/Arrows-Impossiblity-Theorem)
+  [![](https://img.shields.io/badge/Big_Data_Recommender_Sys-000)](https://github.com/brendanglauterborn/Big-Data-Recommender-Sys)
 
-  ### Graduate Projects
+  [![](https://img.shields.io/badge/Data_Mining_Regression-000)](https://github.com/brendanglauterborn/Data-Mining-Regression)
+
+  [![](https://img.shields.io/badge/Data_Mining_Carbon_Emissions-000)](https://github.com/brendanglauterborn/Data-Mining-Carbon-Emissions)
+
   [![](https://img.shields.io/badge/Real_Estate_Manager-000)](https://github.com/brendanglauterborn/real-estate-manager)
   
   [![](https://img.shields.io/badge/x86--64_Bootloader_Project-000)](https://github.com/curlyLasagna/COSC-519-Project)
@@ -41,6 +43,12 @@ Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=
   [![](https://img.shields.io/badge/COSC_650_UDP_Stop--and--Wait_Project-000)](https://github.com/brendanglauterborn/COSC-650-UDP-StopAndWait)
 
   [![](https://img.shields.io/badge/LLM_Load_Balancing_Paper-000)](https://github.com/brendanglauterborn/llm-load-balancing-paper)
+
+  ### Undergraduate Projects
+  
+  [![](https://img.shields.io/badge/Effect%20of%20Total%20Expenditures%20per%20Student%20on%20AP%20Exam%20Pass%20Rates-000)](https://github.com/brendanglauterborn/Effect-of-Total-Expenditures-per-Student-on-AP-Exam-Pass-Rates)
+
+  [![](https://img.shields.io/badge/-Arrows%20Impossibility%20Theorem-000)](https://github.com/brendanglauterborn/Arrows-Impossiblity-Theorem)
 
 
 
