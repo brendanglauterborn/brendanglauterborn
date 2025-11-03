@@ -27,6 +27,9 @@ Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=
   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=4479A1)
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanglauterborn&layout=compact&langs_count=30&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
    ### Graduate Projects
   
   [![](https://img.shields.io/badge/Big_Data_Classification-000)](https://github.com/brendanglauterborn/Big-Data-Classification) [![](https://img.shields.io/badge/Big_Data_Recommender_Sys-000)](https://github.com/brendanglauterborn/Big-Data-Recommender-Sys)
@@ -44,7 +47,6 @@ Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanglauterborn&layout=compact&langs_count=20&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
