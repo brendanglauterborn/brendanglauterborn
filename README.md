@@ -44,7 +44,7 @@ Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanglauterborn&layout=compact&langs_count=10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanglauterborn&layout=compact&langs_count=20&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
