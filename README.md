@@ -17,7 +17,7 @@ I am currently looking for Data Science roles. I spend my down time playing fant
  
 Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brendan.lauterborn@gmail.com)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
  
   
   ### Languages
@@ -28,7 +28,7 @@ Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanglauterborn&layout=compact&langs_count=30&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
    ### Graduate Projects
   
