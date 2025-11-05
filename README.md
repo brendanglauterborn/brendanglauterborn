@@ -36,9 +36,11 @@ Email [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=
 
   [![](https://img.shields.io/badge/Data_Mining_Regression-000)](https://github.com/brendanglauterborn/Data-Mining-Regression) [![](https://img.shields.io/badge/Data_Mining_Carbon_Emissions-000)](https://github.com/brendanglauterborn/Data-Mining-Carbon-Emissions)
 
-  [![](https://img.shields.io/badge/Real_Estate_Manager-000)](https://github.com/brendanglauterborn/real-estate-manager) [![](https://img.shields.io/badge/x86--64_Bootloader_Project-000)](https://github.com/curlyLasagna/COSC-519-Project)
-
-  [![](https://img.shields.io/badge/COSC_650_UDP_Stop--and--Wait_Project-000)](https://github.com/brendanglauterborn/COSC-650-UDP-StopAndWait) [![](https://img.shields.io/badge/LLM_Load_Balancing_Paper-000)](https://github.com/brendanglauterborn/llm-load-balancing-paper)
+  [![](https://img.shields.io/badge/Data_Mining_Diabetes_Classification-000)](https://github.com/brendanglauterborn/Data-Mining-Diabetes-Classification) [![](https://img.shields.io/badge/Real_Estate_Manager-000)](https://github.com/brendanglauterborn/real-estate-manager) 
+  
+  [![](https://img.shields.io/badge/x86--64_Bootloader_Project-000)](https://github.com/curlyLasagna/COSC-519-Project) [![](https://img.shields.io/badge/COSC_650_UDP_Stop--and--Wait_Project-000)](https://github.com/brendanglauterborn/COSC-650-UDP-StopAndWait) 
+  
+  [![](https://img.shields.io/badge/LLM_Load_Balancing_Paper-000)](https://github.com/brendanglauterborn/llm-load-balancing-paper)
 
   ### Undergraduate Projects
   
