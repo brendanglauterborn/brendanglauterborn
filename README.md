@@ -29,19 +29,14 @@ I'm Brendan Lauterborn! A graduate student in Computer Science at Towson Univers
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanglauterborn&layout=compact&langs_count=30&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
-   ### Graduate Projects
-  
-  [![](https://img.shields.io/badge/Big_Data_Classification-000)](https://github.com/brendanglauterborn/Big-Data-Classification) [![](https://img.shields.io/badge/Big_Data_Recommender_Sys-000)](https://github.com/brendanglauterborn/Big-Data-Recommender-Sys)
-
-  [![](https://img.shields.io/badge/Data_Mining_Regression-000)](https://github.com/brendanglauterborn/Data-Mining-Regression) [![](https://img.shields.io/badge/Data_Mining_Carbon_Emissions-000)](https://github.com/brendanglauterborn/Data-Mining-Carbon-Emissions)
-
-  [![](https://img.shields.io/badge/Data_Mining_Diabetes_Classification-000)](https://github.com/brendanglauterborn/Data-Mining-Diabetes-Classification) [![](https://img.shields.io/badge/Real_Estate_Manager-000)](https://github.com/brendanglauterborn/real-estate-manager) 
-  
+   ### Graduate CS Projects
+  [![](https://img.shields.io/badge/Data_Mining_Diabetes_Classification-000)](https://github.com/brendanglauterborn/Data-Mining-Diabetes-Classification) [![](https://img.shields.io/badge/Big_Data_Classification-000)](https://github.com/brendanglauterborn/Big-Data-Classification) 
+  [![](https://img.shields.io/badge/Big_Data_Recommender_Sys-000)](https://github.com/brendanglauterborn/Big-Data-Recommender-Sys) [![](https://img.shields.io/badge/Data_Mining_Regression-000)](https://github.com/brendanglauterborn/Data-Mining-Regression) 
+  [![](https://img.shields.io/badge/Data_Mining_Carbon_Emissions-000)](https://github.com/brendanglauterborn/Data-Mining-Carbon-Emissions) [![](https://img.shields.io/badge/Real_Estate_Manager-000)](https://github.com/brendanglauterborn/real-estate-manager) 
   [![](https://img.shields.io/badge/x86--64_Bootloader_Project-000)](https://github.com/curlyLasagna/COSC-519-Project) [![](https://img.shields.io/badge/COSC_650_UDP_Stop--and--Wait_Project-000)](https://github.com/brendanglauterborn/COSC-650-UDP-StopAndWait) 
-  
   [![](https://img.shields.io/badge/LLM_Load_Balancing_Paper-000)](https://github.com/brendanglauterborn/llm-load-balancing-paper)
 
-  ### Undergraduate Projects
+  ### Undergraduate Math Projects
   
   [![](https://img.shields.io/badge/Effect%20of%20Total%20Expenditures%20per%20Student%20on%20AP%20Exam%20Pass%20Rates-000)](https://github.com/brendanglauterborn/Effect-of-Total-Expenditures-per-Student-on-AP-Exam-Pass-Rates) [![](https://img.shields.io/badge/-Arrows%20Impossibility%20Theorem-000)](https://github.com/brendanglauterborn/Arrows-Impossiblity-Theorem)
 
