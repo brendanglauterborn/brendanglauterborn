@@ -12,7 +12,7 @@
 
 
 
-I'm Brendan Lauterborn! A graduate student in Computer Science at Towson University. I love learning about deep learning. Take a look at my [![](https://img.shields.io/badge/Resume-000)](https://github.com/brendanglauterborn/brendan-resume/blob/main/Brendan-Lauterborn-resume.pdf)
+I'm Brendan Lauterborn! A graduate student in Computer Science at Towson University. I love learning about deep learning. Take a look at my [![](https://img.shields.io/badge/Resume-000)](https://github.com/brendanglauterborn/brendan-resume/blob/main/Brendan-Lauterborn-resume-2pg.pdf)
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brendan.lauterborn@gmail.com)
 
