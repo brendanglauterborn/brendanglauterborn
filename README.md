@@ -30,7 +30,7 @@ I'm Brendan Lauterborn! A graduate student in Computer Science at Towson Univers
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
    ### Graduate CS Projects
-  [![](https://img.shields.io/badge/cnn-dog-breed-classifier)](https://github.com/brendanglauterborn/cnn-dog-breed-classifier)
+  [![](https://img.shields.io/badge/CNN_Dog_Breed_Classifier-000)](https://github.com/brendanglauterborn/cnn-dog-breed-classifier)
   [![](https://img.shields.io/badge/Data_Mining_Diabetes_Classification-000)](https://github.com/brendanglauterborn/Data-Mining-Diabetes-Classification) [![](https://img.shields.io/badge/Big_Data_Classification-000)](https://github.com/brendanglauterborn/Big-Data-Classification) 
   [![](https://img.shields.io/badge/Big_Data_Recommender_Sys-000)](https://github.com/brendanglauterborn/Big-Data-Recommender-Sys) [![](https://img.shields.io/badge/Data_Mining_Regression-000)](https://github.com/brendanglauterborn/Data-Mining-Regression) 
   [![](https://img.shields.io/badge/Data_Mining_Carbon_Emissions-000)](https://github.com/brendanglauterborn/Data-Mining-Carbon-Emissions) [![](https://img.shields.io/badge/Real_Estate_Manager-000)](https://github.com/brendanglauterborn/real-estate-manager) 
