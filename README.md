@@ -30,6 +30,7 @@ I'm Brendan Lauterborn! A graduate student in Computer Science at Towson Univers
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
    ### Graduate CS Projects
+  [![](https://img.shields.io/badge/Brain_Tumor_MRI_Classification_XAI-000)](https://github.com/brendanglauterborn/brain-tumor-mri-classification-xai)
  [![](https://img.shields.io/badge/Humor_Detection_XAI-000)](https://github.com/brendanglauterborn/Humor-Detection-with-XAI)
  [![](https://img.shields.io/badge/CNN_Dog_Breed_Classifier-000)](https://github.com/brendanglauterborn/cnn-dog-breed-classifier)
   [![](https://img.shields.io/badge/Data_Mining_Diabetes_Classification-000)](https://github.com/brendanglauterborn/Data-Mining-Diabetes-Classification) [![](https://img.shields.io/badge/Big_Data_Classification-000)](https://github.com/brendanglauterborn/Big-Data-Classification) 
